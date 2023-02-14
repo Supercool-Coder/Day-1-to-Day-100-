@@ -65,7 +65,7 @@ Question19 --> Java Program to Calculate Compound Interest ?
 Question20 --> Java Program to Find the Perimeter of a Rectangle ?
 
 
-### Python Basics Questions Day 1 to Day 10
+## Python Basics Questions Day 1 to Day 10
 
 Question1 --> Python program to add two numbers ?
 
@@ -98,7 +98,7 @@ Question14 --> Python Program for Sum of squares of first n natural numbers
 Question15 --> Python Program for cube sum of first n natural numbers
 
 
-### C++ Basics Questions Day 1 to Day 100
+## C++ Basics Questions Day 1 to Day 100
 
 Question1 --> C++ Program to Print “Hello, World!”.
 
@@ -128,7 +128,7 @@ Question1 --> C++ Program to Calculate Area of Rectangle.
 
 Question1 --> C++ Program to convert days to years, weeks and days.
 
-### List of C++ language string programs
+## List of C++ language string programs
 
 Question1 --> Write C++ program to concatenate two strings
 
@@ -149,7 +149,7 @@ Question8 --> Write C++ program to count number of alphabets, digits and special
 Question9 --> Write C++ program to compare two strings using strcmp
 
 
-### List of all conditional programs in c++ language
+## List of all conditional programs in c++ language
 
 Question10 --> C++ Program to check whether an integer entered by the user is odd or even
 
@@ -188,7 +188,7 @@ Question26 --> C++ program to count total number of notes in entered amount.
 Question27 --> C++ program to check whether a triangle can be formed by the given value for the angles.
 
 
-### List of C++ Language Loop Programs with Examples
+## List of C++ Language Loop Programs with Examples
 
 Question28 --> Write C++ program to print alphabets from a to z
 
@@ -235,7 +235,7 @@ Question48 --> Write C++ program to find HCF of two numbers
 Question49 --> Write C++ program to find LCM of two numbers
 
 
-### List of Switch case C++ programs with an examples
+## List of Switch case C++ programs with an examples
 
 Question50 --> Write C++ program to print number of days in a month using switch case
 
@@ -299,7 +299,7 @@ Question77 --> Write C++ program to check palindrome number using recursion
 Question78 --> Write C++ program to find maximum and minimum elements in array using recursion
 
 
-### List of C++ language Pointer Exercise
+## List of C++ language Pointer Exercise
 
 Question79 --> Write C++ program to swap two numbers using pointers
 
@@ -354,7 +354,7 @@ Question102 --> Write C++ program to left rotate an array
 Question103 --> Write C++ program to right rotate an array
 
 
-### List of C++ language matrix programs with an examples
+## List of C++ language matrix programs with an examples
 
 Question104 --> Write C++ Program to Add Two Matrices
 
