@@ -22,7 +22,7 @@ Once you choose a language learn the fundamentals of it but if you already know 
 - A lot of companies such as Lyft and Salesforce have a slight difference in their hiring procedure. They want the candidate to write code and solve the problems on a laptop. You will have to write the complete program and your code should pass the given test cases. You may have to work on command line arguments or you may have to parse the CSV or text files. 
 - Other companies such as Google, Amazon, or Microsoft use a whiteboard. So it’s good that you know the basics of your language to handle both of the coding scenarios in your interview. So almost it will take 10 days to make a decision that which language is best for you and you’re comfortable with.
 
-### Java Basics Questions Day 1 to Day 10
+## Java Basics Questions Day 1 to Day 10
 
 Question1 --> Java Program to Read The Number From Standard Input .?
 
