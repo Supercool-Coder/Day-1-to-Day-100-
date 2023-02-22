@@ -1,9 +1,9 @@
 # Day-1-to-Day-100-
 Choose a Programming Language and Learn The Fundamentals of it   
 
-1. C++ Language 
-2. Java Language 
-3. Python Language
+`1. C++ Language `
+`2. Java Language `
+`3. Python Language`
 
 You need to choose a programming language and you need to be stick with it. Explore various programming languages, read about them, try it out in your code editor, and check if you’re comfortable with it or not. 
 
@@ -13,18 +13,16 @@ All these questions will create confusion and you will also switch to some diffe
 
 Once you choose a language learn the fundamentals of it but if you already know the fundamentals (you might have created your project in that language) then brush up on it. It has been seen that a lot of people forget the basic things of their chosen language. So you need to make sure that you have a good command of your chosen language. Learn the basic syntax, give some online tests, and remember the basic things of your chosen language. It may take around one week or 7 days to learn the fundamentals of your language. 
 
-Few things you should remember are…
+## Few things you should remember are…
 
-Reading/Writing from/to files.
-Reading input from the console.
-Split strings
-2D array implementation and how to use it.
-Very basics things of language such as in C/C++ handling null-terminated strings
-A lot of companies such as Lyft and Salesforce have a slight difference in their hiring procedure. They want the candidate to write code and solve the problems on a laptop. You will have to write the complete program and your code should pass the given test cases. You may have to work on command line arguments or you may have to parse the CSV or text files. 
+- Reading/Writing from/to files.
+- Reading input from the console.
+- Split strings,2D array implementation and how to use it.
+- Very basics things of language such as in C/C++ handling null-terminated strings.
+- A lot of companies such as Lyft and Salesforce have a slight difference in their hiring procedure. They want the candidate to write code and solve the problems on a laptop. You will have to write the complete program and your code should pass the given test cases. You may have to work on command line arguments or you may have to parse the CSV or text files. 
+- Other companies such as Google, Amazon, or Microsoft use a whiteboard. So it’s good that you know the basics of your language to handle both of the coding scenarios in your interview. So almost it will take 10 days to make a decision that which language is best for you and you’re comfortable with.
 
-Other companies such as Google, Amazon, or Microsoft use a whiteboard. So it’s good that you know the basics of your language to handle both of the coding scenarios in your interview. So almost it will take 10 days to make a decision that which language is best for you and you’re comfortable with.
-
-Java Basics Questions Day 1 to Day 10
+## Java Basics Questions Day 1 to Day 10
 
 Question1 --> Java Program to Read The Number From Standard Input .?
 
@@ -67,7 +65,7 @@ Question19 --> Java Program to Calculate Compound Interest ?
 Question20 --> Java Program to Find the Perimeter of a Rectangle ?
 
 
-Python Basics Questions Day 1 to Day 10
+## Python Basics Questions Day 1 to Day 10
 
 Question1 --> Python program to add two numbers ?
 
@@ -100,7 +98,7 @@ Question14 --> Python Program for Sum of squares of first n natural numbers
 Question15 --> Python Program for cube sum of first n natural numbers
 
 
-C++ Basics Questions Day 1 to Day 100
+## C++ Basics Questions Day 1 to Day 100
 
 Question1 --> C++ Program to Print “Hello, World!”.
 
@@ -130,7 +128,7 @@ Question1 --> C++ Program to Calculate Area of Rectangle.
 
 Question1 --> C++ Program to convert days to years, weeks and days.
 
-List of C++ language string programs
+## List of C++ language string programs
 
 Question1 --> Write C++ program to concatenate two strings
 
@@ -151,7 +149,7 @@ Question8 --> Write C++ program to count number of alphabets, digits and special
 Question9 --> Write C++ program to compare two strings using strcmp
 
 
-List of all conditional programs in c++ language
+## List of all conditional programs in c++ language
 
 Question10 --> C++ Program to check whether an integer entered by the user is odd or even
 
@@ -189,7 +187,8 @@ Question26 --> C++ program to count total number of notes in entered amount.
 
 Question27 --> C++ program to check whether a triangle can be formed by the given value for the angles.
 
-List of C++ Language Loop Programs with Examples
+
+## List of C++ Language Loop Programs with Examples
 
 Question28 --> Write C++ program to print alphabets from a to z
 
@@ -236,7 +235,7 @@ Question48 --> Write C++ program to find HCF of two numbers
 Question49 --> Write C++ program to find LCM of two numbers
 
 
-List of Switch case C++ programs with an examples
+## List of Switch case C++ programs with an examples
 
 Question50 --> Write C++ program to print number of days in a month using switch case
 
@@ -253,8 +252,7 @@ Question55 --> Write C++ program to print gender (Male/Female) program according
 Question56 --> Write C++ Program to find maximum number using switch case.
 
 
-
-List of c++ language function and recursion programming exercises
+### List of c++ language function and recursion programming exercises
 
 Question57 --> Write C++ program to check even or odd using functions
 
@@ -301,7 +299,7 @@ Question77 --> Write C++ program to check palindrome number using recursion
 Question78 --> Write C++ program to find maximum and minimum elements in array using recursion
 
 
-List of C++ language Pointer Exercise
+## List of C++ language Pointer Exercise
 
 Question79 --> Write C++ program to swap two numbers using pointers
 
@@ -356,7 +354,7 @@ Question102 --> Write C++ program to left rotate an array
 Question103 --> Write C++ program to right rotate an array
 
 
-List of C++ language matrix programs with an examples
+## List of C++ language matrix programs with an examples
 
 Question104 --> Write C++ Program to Add Two Matrices
 
